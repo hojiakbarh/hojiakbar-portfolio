@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Hojiakbar Hoshimjonov
 
-# Run and deploy your AI Studio app
+**Python Backend Developer · Web · Mobile · AI**
 
-This contains everything you need to run your app locally.
+Python Backend Developer specializing in Django, REST APIs, databases, web, mobile and AI integrations.
 
-View your app in AI Studio: https://ai.studio/apps/0f47b023-72b4-4536-9030-36231ef3ea54
+## Tech Stack
 
-## Run Locally
+- Python
+- Django / Django REST Framework
+- PostgreSQL / MySQL / SQLite
+- JavaScript / React / HTML / CSS
+- Flutter / Kotlin / Android
+- REST API / JWT / CRUD / ORM
+- Docker / Linux / Cloudflare
+- Supabase
+- Git / GitHub
 
-**Prerequisites:**  Node.js
+## Projects
 
+### TermoPanel Facade Shop
+E-commerce platform for facade products with calculator, cart, orders and Telegram integration.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### ToDo List API
+REST API built with Python and Django REST Framework.
+
+### E-commerce Backend
+Backend system with authentication, products, categories, orders and database integration.
+
+## Contact
+
+- GitHub: https://github.com/hojiakbarh
+- Telegram: @hjkbrsvnch
+- Email: hojiakbarpy@gmail.com
+- Portfolio: https://hojikabar-portfolio.pages.dev/
